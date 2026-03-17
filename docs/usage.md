@@ -22,3 +22,4 @@ Notes and usage details for templier.
 - fix a small wording issue
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
